@@ -1,0 +1,48 @@
+html, body {
+    margin:0;
+    padding:0;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background: white;    
+}
+.band {
+    display: inline-block;
+    width: 100%;
+}
+
+.w100 {
+    width: 100%;
+}
+.w50 {
+    width: 50%;
+}
+.w33 {
+    width: 33.2%;
+}
+.w25 {
+    width: 25%;
+}
+
+.tleft {
+    float:left;
+    text-align:left;
+}
+.tright {
+    float:right;
+    text-align:right;
+}
+.tcenter {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+.top {
+    vertical-align: top;
+}
+p {
+    padding: 0px 15px;
+}
